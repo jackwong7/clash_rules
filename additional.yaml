@@ -1,0 +1,6 @@
+rules:
+  - DOMAIN-SUFFIX,groq.com,PROXY
+  - DOMAIN-SUFFIX,openai.com,PROXY
+  - DOMAIN-SUFFIX,chatgpt.com,PROXY
+  #- DOMAIN,example.org,PROXY
+  #- DOMAIN-KEYWORD,example,PROXY
